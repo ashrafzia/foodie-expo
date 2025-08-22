@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "foodie-expo",
+    "slug": "foodie-expo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  }
+}
